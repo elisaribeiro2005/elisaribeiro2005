@@ -14,23 +14,6 @@
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- Programming: `Python`, `C`, `SQL`, `JavaScript`
-- Data & AI: `Pandas`, `Scikit-learn`, `TensorFlow`, `Jupyter`
-- Other: `Git`, `Linux`, `VS Code`, `Docker`
-
----
-
-## 📌 Interests
-
-- Machine Learning & AI  
-- Scientific Computing  
-- Databases & Data Engineering  
-- Software Architecture
-
----
-
 ## 📫 How to reach me
 
 - 💼 LinkedIn: [linkedin.com/in/elisaribeiro2005](www.linkedin.com/in/elisa-ribeiro-gonçalves-44aba32a2)
